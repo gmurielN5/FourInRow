@@ -1,4 +1,4 @@
-# Four in Row 3D interactive Game 
+# Connect 4 3D interactive Game 
 
 **A small 3D Game built with Three.js**
 
