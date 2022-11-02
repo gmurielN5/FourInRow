@@ -3,7 +3,7 @@
 **A small 3D Game built with Three.js**
 
 ### Demo
-[Visit site](https://mg-connect4.netlify.app/)
+[Play it !](https://mg-connect4.netlify.app/)
 
 ### Installation
 Clone repo
