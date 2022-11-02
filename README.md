@@ -3,10 +3,12 @@
 **A small 3D Game built with Three.js**
 
 ### Demo
-[Play it !](https://mg-connect4.netlify.app/)
+
 - 2 Player game
 - Drop the Apple or Donut token
-- the first to form a horizontal, vertical, or diagonal line of four win the game
+- The first to form a horizontal, vertical, or diagonal line of four win the game
+
+[Play it !](https://mg-connect4.netlify.app/)
 
 ### Installation
 Clone repo
